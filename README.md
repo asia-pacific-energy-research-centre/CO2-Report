@@ -1,28 +1,11 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/asia-pacific-energy-research-centre/aperc-data-science-project/master?p=pitchme&grs=github)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/asia-pacific-energy-research-centre/aperc-data-science-project/master?urlpath=lab)
 
-# aperc-data-science-project
+# APERC CO2 Report
 
-Repository containing scaffolding for a Python 3-based data science project using the [scikit-learn](https://scikit-learn.org/stable/) ecosystem. 
+This repository contains data and notebooks to produce the analysis and figures in the 2020 APERC CO2 Report. 
 
-## Creating a new project from this template
-
-Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
-
-## Project organization
-
-Project organization is based on ideas from [_Good Enough Practices for Scientific Computing_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
-
-1. Put each project in its own directory, which is named after the project.
-2. Put external scripts or compiled programs in the `bin` directory.
-3. Put raw data and metadata in a `data` directory.
-4. Put text documents associated with the project in the `doc` directory.
-5. Put all Docker related files in the `docker` directory.
-6. Install the Conda environment into an `env` directory. 
-7. Put all notebooks in the `notebooks` directory.
-8. Put files generated during cleanup and analysis in a `results` directory.
-9. Put project source code in the `src` directory.
-10. Name all files to reflect their content or function.
+The report is expected to be published in June 2020.
 
 ## Using Conda
 
