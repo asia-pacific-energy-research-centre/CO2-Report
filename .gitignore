@@ -2,6 +2,8 @@
 
 data/examples/AccumulatedAnnualDemand_example.csv
 
+*-Co2r.xls
+
 envs/
 
 .DS_Store
@@ -132,3 +134,4 @@ dmypy.json
 .pyre/
 
 data/00_APEC_EGEDA_20190925.xlsx
+data/EGEDA_2019_09_25_tidy.csv
