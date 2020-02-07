@@ -17,3 +17,9 @@ dependencies:
   - statsmodels
   - seaborn
   - bokeh
+  - chartify
+  - panel
+  - nodejs
+  - conda-forge::altair
+  - hvplot
+  
